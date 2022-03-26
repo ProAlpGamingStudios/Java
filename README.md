@@ -1,1 +1,2 @@
-fck
+#Plugin
+Bu örnek bir plugindir.
